@@ -1,0 +1,138 @@
+.intro_header {
+    color: white;
+}
+
+.intro_desc {
+    color: white;
+    font-size: 20px;
+}
+
+.About_Me {
+    border-style: none;
+    background-color: #FCD2D1;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.about_me_text {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto', cursive;
+    color: black;
+}
+
+.my_portfolio {
+    font-size: 20px;
+    font-family: 'Roboto', cursive;
+    color: black;
+}
+
+.my_project_text {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.my_project {
+    width: 300px;
+    height: 710px;
+    border-style: solid;
+    border-radius: 15;
+    border-color: transparent;
+    background-color: transparent;
+    margin: 10px;
+    padding: 10px;
+}
+
+.project_text {
+    font-size: 25px;
+    font-family: 'Roboto', cursive;
+    color: white;
+}
+
+.project_description {
+    font-size: 15px;
+    font-family: 'Roboto', cursive;
+    color: white;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: transparent;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    background-color: black;
+}
+
+.connect {
+    font-size: 40px;
+    color: white;
+    font-family: 'Roboto', cursive;
+    font-weight: bold;
+}
+
+.space {
+    padding-top: 100px;
+}
+
+.skill {
+    width: 100%;
+    height: 200px;
+    border-style: none;
+    background-color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+
+.skills {
+    color: #A6D1E6;
+    font-size: 20px;
+    font-family: 'Roboto', cursive;
+}
+
+.title {
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', cursive;
+}
+
+.connect_image {
+    padding-right: 10px;
+}
+
+.tastysoft {
+    color: blue
+}
+
+.card-group {
+    background-color: transparent;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.intro {
+    height: 100vh;
+    text-align: center;
+    background-color: transparent;
+    /* border: solid 10px;
+    border-color: white; */
+    padding-top: 30vh;
+}
